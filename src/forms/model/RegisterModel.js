@@ -3,11 +3,11 @@
 import t from 'tcomb-form-native'
 
 const Person = t.struct({
-  Nombre : t.String,
-  Correo_Electronico : t.String,
-  Contraseña: t.String,
-  Telefono : t.Number,
-  Domicilio : t.String
+  name : t.String,
+  email : t.String,
+  password : t.String,
+  phone : t.Number,
+  home : t.String
 })
 
 export default Person
