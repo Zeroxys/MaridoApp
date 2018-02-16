@@ -21,30 +21,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_690547a72a0debbe0786b09bc6a70e55ab5abcc2.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
         <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_a386c65e7b98aacd673b2ab4eb4c06c253180e88.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_839d7cec8341f249064401efb0eeac8804c87b5c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,12 +39,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_08cb0affdb64799b0787959d8802037a33873e93.jar" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_e09a9b9ea09692ed2cc91c20436c6abde5d2a8ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_1157056d569bcd44fb5c068ef90c79da1c085cb0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,6 +66,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_6ba8df707c0b7ca8aa9c241cd327937daf3c64a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -84,39 +84,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jar="/home/miguel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_521234d29cf07eb6fae99e56a47d0ad4ab342539.jar" />
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_ba3fac8ed8bc8bbd018d04d43862d6f07e8cb596.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/miguel/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_298eb2d98d674d4726c6835b7e3303c3345808b4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_e513c368f74d89647675501fc7241c48559f125c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/miguel/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_a881939da168c750096d289127ca2fb9c77a6273.jar" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_5e60ff8948c5c6deeefc5c2f3d4fd2600104fbbe.jar" />
     </item>
     <item
         is-multidex="false"
@@ -126,33 +108,6 @@
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_06a2fc5ef28d19b565f6ac07032c449804f0cd05.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/miguel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_17495c5e345f021ed95df1162e354f7fa32d98a6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/miguel/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_0c5418d8d2f3647c51c2c361ec9bed4c60deffde.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_3309d4ee6a521abb4eda8c923eec741d4729ae12.jar" />
     </item>
     <item
         is-multidex="false"
@@ -174,12 +129,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/Marido/react-native-splash-screen/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_feccfbf5e1a0b3fc15f47b6201520db74ab093f3.jar" />
+        sha1="e6f2aeb72dcd8ad76fe9d833a151a147694b2852">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/Marido-react-native-splash-screen-unspecified_17b948bf09c3b81c011f2534783d5211da23b1c5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -189,6 +144,78 @@
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
         <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_35b9a1a6d666837b88f46261915d801507c56813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_d33f3cbe90145d3538f8d4ed46ecfd0bd8e438bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_08cb0affdb64799b0787959d8802037a33873e93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_521234d29cf07eb6fae99e56a47d0ad4ab342539.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/miguel/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_298eb2d98d674d4726c6835b7e3303c3345808b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/miguel/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_a881939da168c750096d289127ca2fb9c77a6273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/miguel/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_0c5418d8d2f3647c51c2c361ec9bed4c60deffde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_3309d4ee6a521abb4eda8c923eec741d4729ae12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_feccfbf5e1a0b3fc15f47b6201520db74ab093f3.jar" />
     </item>
 
 </items>
