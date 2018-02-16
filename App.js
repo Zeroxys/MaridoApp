@@ -32,7 +32,6 @@ var options = {
   fields : {
     name : {
       maxLength: 70,
-      minLength : 6,
       autoCapitalize: 'none',
       placeholder : 'Nombre',
       underlineColorAndroid: 'transparent',
@@ -91,7 +90,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={{color : 'black', fontSize: 26}}>Registrate</Text>
+        <Text style={{color : 'black', fontSize: 26, fontWeight: '100'}}>Registrate</Text>
 
         <View style={styles.formContent}>
           <Form
