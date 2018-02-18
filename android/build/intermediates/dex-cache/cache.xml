@@ -30,15 +30,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/miguel/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_c1b8fbfc66f1344ab8260851b28d7aebde4f80b8.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -57,12 +48,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/miguel/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_cfd50bfb03bc757e1649ab23e635c2efe4c35ae7.jar" />
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8cb1dcf68d89b3835f6b8620276bad0ce2e75a94.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,6 +75,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_f1b31295be92f01ba61bcf2b9b0bcc31ee1d17ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/miguel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -99,15 +99,6 @@
         revision="23.0.1"
         sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
         <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_5e60ff8948c5c6deeefc5c2f3d4fd2600104fbbe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/miguel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_06a2fc5ef28d19b565f6ac07032c449804f0cd05.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,21 +129,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/miguel/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_35b9a1a6d666837b88f46261915d801507c56813.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
         <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_d33f3cbe90145d3538f8d4ed46ecfd0bd8e438bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a4ff18420a8934a9e3216240ba688ec9282bc97a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b3ccc2babea9a884ceb74ff86b197240a1d61adc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7e84a58f14b03e539c66973b1348dfcc92b37959.jar" />
     </item>
     <item
         is-multidex="false"
@@ -165,6 +174,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_456beae1bfbef6196546d4c957b5e9b726c256ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -174,30 +192,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/miguel/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_298eb2d98d674d4726c6835b7e3303c3345808b4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/miguel/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_a881939da168c750096d289127ca2fb9c77a6273.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/miguel/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_0c5418d8d2f3647c51c2c361ec9bed4c60deffde.jar" />
+        <dex dex="/home/miguel/Dev/Mobile/Marido/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_e7ea4e486c0a517743326a43c02b22b521807cd1.jar" />
     </item>
     <item
         is-multidex="false"

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {Component} from 'react';
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native'
 import SplashScreen from 'react-native-splash-screen'
 import t from 'tcomb-form-native'
@@ -68,7 +68,7 @@ var options = {
   }
 }
 
-export default class App extends React.Component {
+export default class App extends Component {
 
   constructor (props) {
     super(props)
@@ -84,7 +84,9 @@ export default class App extends React.Component {
   }
 
   componentDidMount() {
-    SplashScreen.hide()
+    setTimeout(() => {
+      SplashScreen.hide();  
+    }, 3000);
   }
   
   render() {
